@@ -1,12 +1,43 @@
-## Hi there 👋
+### 📌 현재 개발 진행중입니다. 등록된 데이터는 테스트를 위한 샘플 데이터입니다.
 
-<!--
+# 키즈존가요 - KIYO : 키즈존 검색 및 추천 서비스 
 
-**Here are some ideas to get you started:**
+![](https://velog.velcdn.com/images/oxhwixo/post/f3ffed86-fb5c-47e4-8f92-be0a2919e0a2/image.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 서비스 소개
+
+어린이 동반 식당/카페를 찾는 사용자에게 위치기반 장소 추천, 검색 서비스를 제공합니다. 
+
+## 사용 기술
+
+### 프론트엔드
+* Next.js
+* React Query
+* Zustand
+* Sass
+* Styled-components
+* Antd
+* Bootstrap
+
+### 백엔드
+* Java
+* SpringBoot
+* Spring Security
+* MySQL
+* Redis
+* Spring Data JPA
+* QueryDSL
+* AWS EC2, RDS, S3
+* Github Actions
+* Code Deploy
+
+### 기타
+* [UI 디자인 - Figma](https://www.figma.com/file/SGFw22Cr70o5OiZZvMJisF/KIYO?node-id=0%3A1)
+* 형상 관리 - git, git flow
+* 일정 관리 - notion
+
+
+## 팀원 소개
+
+![](https://velog.velcdn.com/images/oxhwixo/post/4f3fc97d-63c9-4d52-b447-8450b94858e5/image.png)
